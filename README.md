@@ -1,4 +1,4 @@
-README — Employee Attrition Analysis (EDA và Mô hình Hồi quy)
+TOPIC : Employee Attrition Analysis (EDA và Mô hình Hồi quy)
 
 I.Tổng quan dự án:
 
