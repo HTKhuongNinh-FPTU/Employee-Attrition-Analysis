@@ -1,4 +1,4 @@
-TOPIC : Employee Attrition Analysis (EDA và Mô hình Hồi quy)
+TOPIC : Employee Attrition Analysis (EDA và Nghiên cứu những mô hình Hồi quy)
 
 I.Tổng quan dự án:
 
