@@ -10,7 +10,7 @@ Khám phá phân phối và mối quan hệ giữa các biến nhân khẩu họ
 
 Xác định các yếu tố có ảnh hưởng mạnh (ví dụ: OverTime, MonthlyIncome, JobSatisfaction, YearsAtCompany).
 
-Xây dựng mô hình hồi quy để dự báo nguy cơ nghỉ việc và cung cấp chỉ số cảnh báo sớm.
+Xây dựng những mô hình hồi quy để dự báo nguy cơ nghỉ việc và cung cấp chỉ số cảnh báo sớm.
 
 Đề xuất chiến lược giữ chân nhân tài dựa trên kết quả phân tích.
 
@@ -27,28 +27,4 @@ Ngôn ngữ: Python
 Môi trường: Google Colab, SQL
 
 Thư viện: Pandas, NumPy (Xử lý dữ liệu); Matplotlib, Seaborn (Trực quan hóa); Scikit-learn (Machine Learning).
-
-V.Tóm tắt EDA
-
-a) Phân tích đơn biến
-
-Kiểm tra tỷ lệ Attrition, phân phối MonthlyIncome, phân bổ theo JobRole và OverTime.
-
-b) Phân tích song biến
-
-Attrition vs MonthlyIncome: so sánh trung bình và phân bố; nhóm nghỉ việc có thu nhập thấp hơn ~$2,043.
-
-Attrition vs OverTime: tính tỷ lệ nghỉ việc theo trạng thái làm thêm giờ; OverTime là yếu tố mạnh.
-
-Attrition vs JobSatisfaction: so sánh mức độ hài lòng giữa nhóm ở lại và nghỉ việc.
-
-Attrition vs YearsAtCompany: kiểm tra thâm niên; nhân viên mới dễ rời hơn.
-
-VI. Sử dụng mô hình hồi quy logistic (LogisticRegression):
-
-Mục tiêu: Dự báo rủi ro nghỉ việc và xác định các yếu tố ảnh hưởng chính.
-
-Phương pháp: Hồi quy Logistic trên dữ liệu nhân sự.
-
-Giá trị: Giảm tỉ lệ biến động nhân sự và tối ưu chi phí tuyển dụng.
 
