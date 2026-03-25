@@ -14,6 +14,8 @@ Xây dựng những mô hình hồi quy để dự báo nguy cơ nghỉ việc v
 
 Đề xuất chiến lược giữ chân nhân tài dựa trên kết quả phân tích.
 
+Truy vấn dữ liệu bằng SQL (Tìm top 10 nhân viên thu nhập cao nhất, Top 3 công việc có số lượng nghỉ việc nhiều,...)
+
 III.Dữ liệu:
 
 Nguồn dữ liệu: https://www.kaggle.com/datasets/agungpambudi/workforce-perspectives-hr-employee-survey-analysis?select=employee-traits-by-department-and-role.csv
