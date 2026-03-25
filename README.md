@@ -29,4 +29,3 @@ Ngôn ngữ: Python
 Môi trường: Google Colab, SQL
 
 Thư viện: Pandas, NumPy (Xử lý dữ liệu); Matplotlib, Seaborn (Trực quan hóa); Scikit-learn (Machine Learning).
-
